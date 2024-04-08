@@ -12,7 +12,7 @@ In addition to my practical experience, I hold an **MSc in Computer Software Eng
 
 ## 💡 Passion for Teaching
 
-I'm passionate about sharing knowledge and have been **tutoring programming and game design** to children aged 7-18 and adults who want to learn to code, emphasizing secure coding practices and fostering a love for technology. I teach various programming languages, including **Python**, **Lua (Roblox)**, **Java (Minecraft)**, and block-based programming like **Scratch**.
+I'm passionate about sharing knowledge and have been **tutoring programming and game design** to children aged 7-18 and adults who want to learn to code. I emphasize secure coding practices and foster a love for technology. I teach programming languages, including **Python**, **Lua (Roblox)**, **Java (Minecraft)**, and block-based programming like **Scratch**.
 
 ## 🔍 Explore My Projects
 
