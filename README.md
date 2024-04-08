@@ -21,3 +21,4 @@ Explore my projects to see how I've applied my **Java**, **JavaScript**, **Pytho
 ## 🌟 Let's Connect!
 
 Let's connect and collaborate on exciting projects together! If you're interested in booking coding lessons with me, please visit my website at [CoderRosa](https://coderrosa.webflow.io/) for more information.
+![Me!]([image_url](https://github.com/Acerosa/image-hosting/blob/main/_com.apple.Pasteboard.1yta1X%202%20(1).png))
